@@ -12,7 +12,7 @@ To Try it out:-
 
 Clone this repo
 <br><br>
-RUN `npm i` and if you have docker installed on your system then run a docker image of redis, here the broker is redis, also do make sure the subscriber and the [publisher](https://github.com/kunal202/easyhack_pub) should run on the same redis port, also make sure the monodb is also running
+RUN `npm i` and if you have docker installed on your system then run a docker image of redis, here the broker is redis, also do make sure the subscriber and the [publisher](https://github.com/kunal202/eazyhack_pub) should run on the same redis port, also make sure the monodb is also running
 
 run `node app`
 
