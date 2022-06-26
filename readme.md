@@ -2,6 +2,12 @@
 
 <h4>Think of this as a basic logger system (like Grafana) where any request coming to the publisher will be sent to the subscriber with the request body</h4>
 
+Tech stack
+
+- Node
+- Redis
+- MongoDb
+
 To Try it out:-
 
 Clone this repo
