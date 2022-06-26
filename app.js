@@ -3,6 +3,7 @@ const client = createClient();
 const { mongo } = require("./models/logs");
 
 (async function main() {
+  console.log('Running')
   const subscriber = client.duplicate();
 
   await subscriber.connect();
